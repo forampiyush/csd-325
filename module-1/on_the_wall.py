@@ -1,7 +1,9 @@
-# -----------------------------------------------------
-# Name: Foram Dholariya
-# Assignment: Module 1.3 - On the Wall
-# -----------------------------------------------------
+# Foram Dholariya
+# 8 June 2026
+# Module 1.2 - Bottles on the Wall
+# Purpose: Print the bottles on the wall song using a loop.
+
+# This program displays the bottles on the wall countdown.
 
 def countdown(bottles):
     while bottles > 1:
