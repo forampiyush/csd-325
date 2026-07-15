@@ -25,8 +25,7 @@ def main():
     score3 = float(input("Enter third score: "))
 
     # Call the function to calculate the average
-    average = calculate_average(score1, score2, score3)
-
+    
     # Display the average score
     print(f"The average score is {average:.2f}")
 
